@@ -47,4 +47,5 @@ Before running the app, you should do some configurations in your machine. (**Pr
 
 Assuming everything was setup correctly, you should see something like so:
 
+![enter image description here](https://github.com/janaka120/react-native-hello-world/blob/master/sample_image/Screenshot_hello_world.png)
 
